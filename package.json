@@ -46,6 +46,6 @@
   },
   "devDependencies": {
     "browserify": "^13.1.1",
-    "snyk": "^1.244.0"
+    "snyk": "^1.1140.0"
   }
 }
